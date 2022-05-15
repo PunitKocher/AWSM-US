@@ -1,0 +1,1 @@
+Keep photos of atleast 1040 horizontal pixel
